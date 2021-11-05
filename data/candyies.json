@@ -1,0 +1,17 @@
+[
+    {"type": "chocolateWithFiling", "name": "Алёнка"},
+    {"type": "chocolateWithFiling", "name": "Берёзка"},
+    {"type": "chocolateWithFiling", "name": "Ромашка"},
+    {"type": "chocolateWithFiling", "name": "Мишка на севере"},
+    {"type": "chocolateWithFiling", "name": "Птичье молоко"},
+    {"type": "chocolateWithoutFiling", "name": "Гулливер"},
+    {"type": "chocolateWithoutFiling", "name": "Белочка"},
+    {"type": "chocolateWithoutFiling", "name": "Ласточка"},
+    {"type": "chocolateWithoutFiling", "name": "Буревестник"},
+    {"type": "chocolateWithoutFiling", "name": "Красная шапочка"},
+    {"type": "lolipop", "name": "Бон Пари"},
+    {"type": "lolipop", "name": "Кислинка"},
+    {"type": "lolipop", "name": "Взлётная"},
+    {"type": "lolipop", "name": "Аэрофлотская"},
+    {"type": "lolipop", "name": "Барбарис"}
+]
